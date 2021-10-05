@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MTXDOT)(type Legacy)(uri ${KIPRJMOD}/symbols/MTXDOT-NA1-A00-1.lib)(options "")(descr ""))
+)
